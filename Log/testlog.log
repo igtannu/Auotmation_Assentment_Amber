@@ -1,0 +1,1807 @@
+2023-12-05 23:11:22,951 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:11:32,359 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:11:39,175 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:37:15,660 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:37:18,958 - Logger_file -INFO - open_browser
+2023-12-05 23:37:24,716 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:37:24,770 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:37:24,821 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:37:24,894 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:37:24,905 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:37:26,015 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-05 23:37:26,031 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:37:26,043 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:37:26,546 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:37:26,546 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:38:51,708 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:38:54,919 - Logger_file -INFO - open_browser
+2023-12-05 23:38:59,131 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:38:59,201 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:38:59,252 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:38:59,349 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:38:59,368 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:39:00,477 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-05 23:39:00,479 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:00,490 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:39:00,966 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:39:00,967 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:01,026 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:39:25,884 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:39:28,600 - Logger_file -INFO - open_browser
+2023-12-05 23:39:32,421 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:39:32,492 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:39:32,538 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:32,597 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:32,613 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:39:33,710 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-05 23:39:33,726 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:33,735 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:39:34,170 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:39:34,170 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:39:34,204 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:42:22,254 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:42:25,640 - Logger_file -INFO - open_browser
+2023-12-05 23:42:29,474 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:42:29,524 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:42:29,575 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:42:29,656 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:42:29,673 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:42:30,053 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:42:30,054 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:42:30,080 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:42:30,214 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:42:30,214 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:42:30,264 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:42:39,881 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:42:39,899 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:42:40,206 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:42:40,206 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:42:40,672 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:42:40,680 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:42:41,036 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:42:41,036 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:42:41,518 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:42:41,531 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:42:41,948 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:42:41,948 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:42:42,481 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:42:42,497 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:42:42,570 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:42:42,579 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:42:43,097 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:42:43,132 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:42:43,297 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:42:55,742 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:42:58,497 - Logger_file -INFO - open_browser
+2023-12-05 23:43:01,745 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:43:01,805 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:43:01,852 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:43:01,943 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:43:01,964 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:43:02,360 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:43:02,360 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:43:02,386 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:43:02,529 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:43:02,530 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:43:02,571 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:46:00,978 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:46:03,841 - Logger_file -INFO - open_browser
+2023-12-05 23:46:07,489 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:46:07,549 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:46:07,599 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:46:07,688 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:46:07,706 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:46:08,179 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:46:08,179 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:46:08,201 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:46:08,339 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:46:08,339 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:46:08,395 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:46:08,442 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:53:01,991 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:53:04,977 - Logger_file -INFO - open_browser
+2023-12-05 23:53:08,455 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:53:08,517 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:53:08,556 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:53:08,638 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:53:08,657 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:53:09,024 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:53:09,024 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:53:09,044 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:53:09,179 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:53:09,179 - Logger_file -INFO - finding Web element By.id: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-05 23:54:39,759 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:54:42,535 - Logger_file -INFO - open_browser
+2023-12-05 23:54:45,946 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:54:46,001 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:54:46,046 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:54:46,124 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:54:46,141 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:54:46,530 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:54:46,531 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:54:46,561 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:54:46,696 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:54:46,696 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-05 23:54:47,420 - Logger_file -INFO - Clicking on London
+2023-12-05 23:54:50,333 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-05 23:54:50,334 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:54:50,414 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:54:50,432 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:54:50,768 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:54:50,770 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:54:51,327 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:54:51,345 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:54:51,690 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:54:51,690 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:54:52,190 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:54:52,203 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:54:52,533 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:54:52,542 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:54:53,334 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:54:53,351 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:54:53,468 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:54:53,468 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:54:53,632 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:54:53,647 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:54:53,783 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:59:07,963 - Logger_file -INFO - Setting Up chrome 
+2023-12-05 23:59:11,046 - Logger_file -INFO - open_browser
+2023-12-05 23:59:14,935 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:59:14,995 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-05 23:59:15,042 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:59:15,093 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-05 23:59:15,111 - Logger_file -INFO - Clicking on Search Box
+2023-12-05 23:59:15,541 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-05 23:59:15,542 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-05 23:59:15,599 - Logger_file -INFO - EnteringLondon
+2023-12-05 23:59:15,752 - Logger_file -INFO - Pass:London is entered
+2023-12-05 23:59:15,752 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-05 23:59:16,418 - Logger_file -INFO - Clicking on London
+2023-12-05 23:59:19,051 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-05 23:59:19,052 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:59:19,111 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-05 23:59:19,123 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:59:19,358 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:59:19,358 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:59:19,756 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-05 23:59:19,770 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:59:20,163 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:59:20,163 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:59:20,655 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-05 23:59:20,670 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:59:21,063 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:59:21,064 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:59:21,882 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-05 23:59:21,891 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:59:22,124 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-05 23:59:22,125 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:59:22,242 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-05 23:59:22,260 - Logger_file -INFO - Clicking on More Filters
+2023-12-05 23:59:22,380 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:01:52,673 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 00:01:55,909 - Logger_file -INFO - open_browser
+2023-12-06 00:01:59,878 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:01:59,948 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:02:00,001 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 00:02:00,095 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:02:00,119 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 00:02:00,699 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 00:02:00,699 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 00:02:00,746 - Logger_file -INFO - EnteringLondon
+2023-12-06 00:02:00,934 - Logger_file -INFO - Pass:London is entered
+2023-12-06 00:02:00,934 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 00:02:01,640 - Logger_file -INFO - Clicking on London
+2023-12-06 00:02:04,745 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 00:02:04,745 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 00:02:04,805 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 00:02:04,838 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:02:05,208 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:02:05,208 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 00:02:05,665 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 00:02:05,671 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:02:06,116 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:02:06,116 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 00:02:06,687 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 00:02:06,704 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:02:07,176 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:02:07,176 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 00:02:08,330 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 00:02:08,356 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:02:08,520 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:02:08,520 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 00:02:08,595 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 00:02:08,613 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:02:08,763 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:03:43,510 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 00:03:46,547 - Logger_file -INFO - open_browser
+2023-12-06 00:03:49,896 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:03:49,997 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:03:50,033 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 00:03:50,079 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:03:50,095 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 00:03:50,510 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 00:03:50,511 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 00:03:50,530 - Logger_file -INFO - EnteringLondon
+2023-12-06 00:03:50,670 - Logger_file -INFO - Pass:London is entered
+2023-12-06 00:03:50,670 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 00:03:51,354 - Logger_file -INFO - Clicking on London
+2023-12-06 00:03:54,071 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 00:03:54,072 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 00:03:54,162 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 00:03:54,179 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:03:54,482 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:03:54,482 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 00:03:54,925 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 00:03:54,939 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:03:55,270 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:03:55,270 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 00:03:55,781 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 00:03:55,795 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:03:56,177 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:03:56,177 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 00:03:57,018 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 00:03:57,036 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:03:57,285 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:03:57,286 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 00:03:57,374 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 00:03:57,386 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 00:03:57,537 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 00:04:03,910 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 00:55:54,920 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 00:55:58,715 - Logger_file -INFO - open_browser
+2023-12-06 00:56:05,541 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:56:05,604 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:56:05,653 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:56:05,721 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:56:05,740 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 00:56:06,090 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 00:59:37,822 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 00:59:40,818 - Logger_file -INFO - open_browser
+2023-12-06 00:59:46,866 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:59:46,931 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 00:59:46,981 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:59:47,033 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 00:59:47,049 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 00:59:47,388 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 01:00:28,246 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:00:31,580 - Logger_file -INFO - open_browser
+2023-12-06 01:00:35,561 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:00:35,646 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:00:35,677 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 01:00:35,720 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 01:00:35,730 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 01:00:36,094 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 01:00:36,095 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button
+2023-12-06 01:00:36,117 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[2]
+2023-12-06 01:00:36,131 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:36,232 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:36,232 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div
+2023-12-06 01:00:36,258 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[1]
+2023-12-06 01:00:36,280 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,290 - Logger_file -INFO - Pass:Text is:London
+2023-12-06 01:00:36,290 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[2]
+2023-12-06 01:00:36,308 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,330 - Logger_file -INFO - Pass:Text is:Birmingham
+2023-12-06 01:00:36,330 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[3]
+2023-12-06 01:00:36,345 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,354 - Logger_file -INFO - Pass:Text is:Leicester
+2023-12-06 01:00:36,354 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[4]
+2023-12-06 01:00:36,375 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,386 - Logger_file -INFO - Pass:Text is:Nottingham
+2023-12-06 01:00:36,386 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[5]
+2023-12-06 01:00:36,401 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,417 - Logger_file -INFO - Pass:Text is:Liverpool
+2023-12-06 01:00:36,417 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[6]
+2023-12-06 01:00:36,433 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,449 - Logger_file -INFO - Pass:Text is:Coventry
+2023-12-06 01:00:36,449 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[7]
+2023-12-06 01:00:36,480 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,497 - Logger_file -INFO - Pass:Text is:Sheffield
+2023-12-06 01:00:36,497 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[8]
+2023-12-06 01:00:36,512 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,512 - Logger_file -INFO - Pass:Text is:Leeds
+2023-12-06 01:00:36,512 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[9]
+2023-12-06 01:00:36,528 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,545 - Logger_file -INFO - Pass:Text is:Newcastle Upon Tyne
+2023-12-06 01:00:36,545 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[10]
+2023-12-06 01:00:36,560 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,576 - Logger_file -INFO - Pass:Text is:Manchester
+2023-12-06 01:00:36,576 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[11]
+2023-12-06 01:00:36,592 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,607 - Logger_file -INFO - Pass:Text is:Cardiff
+2023-12-06 01:00:36,607 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[12]
+2023-12-06 01:00:36,623 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,639 - Logger_file -INFO - Pass:Text is:Swansea
+2023-12-06 01:00:36,639 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[13]
+2023-12-06 01:00:36,655 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,655 - Logger_file -INFO - Pass:Text is:Edinburgh
+2023-12-06 01:00:36,655 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[14]
+2023-12-06 01:00:36,671 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,687 - Logger_file -INFO - Pass:Text is:Salford
+2023-12-06 01:00:36,687 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[15]
+2023-12-06 01:00:36,702 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,718 - Logger_file -INFO - Pass:Text is:Plymouth
+2023-12-06 01:00:36,718 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[16]
+2023-12-06 01:00:36,734 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,745 - Logger_file -INFO - Pass:Text is:Aberdeen
+2023-12-06 01:00:36,750 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[17]
+2023-12-06 01:00:36,750 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,766 - Logger_file -INFO - Pass:Text is:Chester
+2023-12-06 01:00:36,766 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[18]
+2023-12-06 01:00:36,781 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,799 - Logger_file -INFO - Pass:Text is:Lincoln
+2023-12-06 01:00:36,799 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[19]
+2023-12-06 01:00:36,814 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,830 - Logger_file -INFO - Pass:Text is:Exeter
+2023-12-06 01:00:36,830 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[3]
+2023-12-06 01:00:36,845 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:36,916 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:36,916 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div
+2023-12-06 01:00:36,939 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[1]
+2023-12-06 01:00:36,951 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,956 - Logger_file -INFO - Pass:Text is:Melbourne
+2023-12-06 01:00:36,956 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[2]
+2023-12-06 01:00:36,965 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:36,981 - Logger_file -INFO - Pass:Text is:Brisbane
+2023-12-06 01:00:36,981 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[3]
+2023-12-06 01:00:37,008 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,015 - Logger_file -INFO - Pass:Text is:Sydney
+2023-12-06 01:00:37,015 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[4]
+2023-12-06 01:00:37,031 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,048 - Logger_file -INFO - Pass:Text is:Adelaide
+2023-12-06 01:00:37,048 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[5]
+2023-12-06 01:00:37,066 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,066 - Logger_file -INFO - Pass:Text is:Perth
+2023-12-06 01:00:37,066 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[6]
+2023-12-06 01:00:37,081 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,098 - Logger_file -INFO - Pass:Text is:Canberra
+2023-12-06 01:00:37,098 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[7]
+2023-12-06 01:00:37,115 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,115 - Logger_file -INFO - Pass:Text is:Gold Coast
+2023-12-06 01:00:37,127 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[8]
+2023-12-06 01:00:37,141 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,148 - Logger_file -INFO - Pass:Text is:Coffs Harbour
+2023-12-06 01:00:37,148 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[4]
+2023-12-06 01:00:37,164 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:37,242 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:37,246 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div
+2023-12-06 01:00:37,254 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[1]
+2023-12-06 01:00:37,271 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,281 - Logger_file -INFO - Pass:Text is:Dublin
+2023-12-06 01:00:37,281 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[2]
+2023-12-06 01:00:37,299 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,311 - Logger_file -INFO - Pass:Text is:Cork
+2023-12-06 01:00:37,313 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[5]
+2023-12-06 01:00:37,330 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:37,387 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:37,387 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div
+2023-12-06 01:00:37,405 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[1]
+2023-12-06 01:00:37,422 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,431 - Logger_file -INFO - Pass:Text is:New York City
+2023-12-06 01:00:37,431 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[2]
+2023-12-06 01:00:37,454 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,467 - Logger_file -INFO - Pass:Text is:Chicago
+2023-12-06 01:00:37,467 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[3]
+2023-12-06 01:00:37,484 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,498 - Logger_file -INFO - Pass:Text is:Austin
+2023-12-06 01:00:37,498 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[4]
+2023-12-06 01:00:37,516 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,527 - Logger_file -INFO - Pass:Text is:Houston
+2023-12-06 01:00:37,527 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[5]
+2023-12-06 01:00:37,531 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,548 - Logger_file -INFO - Pass:Text is:San Francisco
+2023-12-06 01:00:37,548 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[6]
+2023-12-06 01:00:37,564 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,581 - Logger_file -INFO - Pass:Text is:Boston
+2023-12-06 01:00:37,581 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[7]
+2023-12-06 01:00:37,602 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,614 - Logger_file -INFO - Pass:Text is:Dallas
+2023-12-06 01:00:37,614 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[8]
+2023-12-06 01:00:37,634 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,649 - Logger_file -INFO - Pass:Text is:Washington DC
+2023-12-06 01:00:37,649 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[9]
+2023-12-06 01:00:37,668 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,681 - Logger_file -INFO - Pass:Text is:Philadelphia
+2023-12-06 01:00:37,681 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[10]
+2023-12-06 01:00:37,702 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,715 - Logger_file -INFO - Pass:Text is:College Station
+2023-12-06 01:00:37,715 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[11]
+2023-12-06 01:00:37,733 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,745 - Logger_file -INFO - Pass:Text is:Los Angeles
+2023-12-06 01:00:37,745 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[12]
+2023-12-06 01:00:37,763 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,766 - Logger_file -INFO - Pass:Text is:Lubbock
+2023-12-06 01:00:37,766 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[13]
+2023-12-06 01:00:37,782 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,800 - Logger_file -INFO - Pass:Text is:Miami
+2023-12-06 01:00:37,800 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[14]
+2023-12-06 01:00:37,815 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:37,832 - Logger_file -INFO - Pass:Text is:Minneapolis
+2023-12-06 01:00:37,832 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[6]
+2023-12-06 01:00:37,852 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:37,946 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:37,946 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div
+2023-12-06 01:00:37,966 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[1]
+2023-12-06 01:00:37,984 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,000 - Logger_file -INFO - Pass:Text is:Toronto
+2023-12-06 01:00:38,000 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[2]
+2023-12-06 01:00:38,024 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,032 - Logger_file -INFO - Pass:Text is:Montreal
+2023-12-06 01:00:38,032 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[3]
+2023-12-06 01:00:38,049 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,065 - Logger_file -INFO - Pass:Text is:Vancouver
+2023-12-06 01:00:38,065 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[7]
+2023-12-06 01:00:38,093 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:38,181 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:38,182 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div
+2023-12-06 01:00:38,200 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[1]
+2023-12-06 01:00:38,220 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,232 - Logger_file -INFO - Pass:Text is:Frankfurt
+2023-12-06 01:00:38,232 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[2]
+2023-12-06 01:00:38,255 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,266 - Logger_file -INFO - Pass:Text is:Hamburg
+2023-12-06 01:00:38,266 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[8]
+2023-12-06 01:00:38,282 - Logger_file -INFO - Clicking on null
+2023-12-06 01:00:38,364 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:00:38,364 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div
+2023-12-06 01:00:38,380 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div[1]
+2023-12-06 01:00:38,396 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:00:38,407 - Logger_file -INFO - Pass:Text is:Barcelona
+2023-12-06 01:01:21,950 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:01:25,186 - Logger_file -INFO - open_browser
+2023-12-06 01:01:29,004 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:01:29,062 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:01:29,099 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 01:01:29,149 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 01:01:29,178 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 01:01:29,525 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 01:01:29,525 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button
+2023-12-06 01:01:29,564 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[2]
+2023-12-06 01:01:29,581 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:29,672 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:29,679 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div
+2023-12-06 01:01:29,698 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[1]
+2023-12-06 01:01:29,719 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,737 - Logger_file -INFO - Pass:Text is:London
+2023-12-06 01:01:29,737 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[2]
+2023-12-06 01:01:29,748 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,764 - Logger_file -INFO - Pass:Text is:Birmingham
+2023-12-06 01:01:29,764 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[3]
+2023-12-06 01:01:29,785 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,798 - Logger_file -INFO - Pass:Text is:Leicester
+2023-12-06 01:01:29,798 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[4]
+2023-12-06 01:01:29,818 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,830 - Logger_file -INFO - Pass:Text is:Nottingham
+2023-12-06 01:01:29,830 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[5]
+2023-12-06 01:01:29,853 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,864 - Logger_file -INFO - Pass:Text is:Liverpool
+2023-12-06 01:01:29,864 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[6]
+2023-12-06 01:01:29,884 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,898 - Logger_file -INFO - Pass:Text is:Coventry
+2023-12-06 01:01:29,898 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[7]
+2023-12-06 01:01:29,915 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,925 - Logger_file -INFO - Pass:Text is:Sheffield
+2023-12-06 01:01:29,925 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[8]
+2023-12-06 01:01:29,941 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,960 - Logger_file -INFO - Pass:Text is:Leeds
+2023-12-06 01:01:29,960 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[9]
+2023-12-06 01:01:29,981 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:29,995 - Logger_file -INFO - Pass:Text is:Newcastle Upon Tyne
+2023-12-06 01:01:29,995 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[10]
+2023-12-06 01:01:30,012 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,027 - Logger_file -INFO - Pass:Text is:Manchester
+2023-12-06 01:01:30,027 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[11]
+2023-12-06 01:01:30,047 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,058 - Logger_file -INFO - Pass:Text is:Cardiff
+2023-12-06 01:01:30,058 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[12]
+2023-12-06 01:01:30,074 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,080 - Logger_file -INFO - Pass:Text is:Swansea
+2023-12-06 01:01:30,080 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[13]
+2023-12-06 01:01:30,097 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,115 - Logger_file -INFO - Pass:Text is:Edinburgh
+2023-12-06 01:01:30,115 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[14]
+2023-12-06 01:01:30,132 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,132 - Logger_file -INFO - Pass:Text is:Salford
+2023-12-06 01:01:30,132 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[15]
+2023-12-06 01:01:30,147 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,167 - Logger_file -INFO - Pass:Text is:Plymouth
+2023-12-06 01:01:30,167 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[16]
+2023-12-06 01:01:30,181 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,197 - Logger_file -INFO - Pass:Text is:Aberdeen
+2023-12-06 01:01:30,197 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[17]
+2023-12-06 01:01:30,216 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,224 - Logger_file -INFO - Pass:Text is:Chester
+2023-12-06 01:01:30,224 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[18]
+2023-12-06 01:01:30,240 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,247 - Logger_file -INFO - Pass:Text is:Lincoln
+2023-12-06 01:01:30,247 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[19]
+2023-12-06 01:01:30,268 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,280 - Logger_file -INFO - Pass:Text is:Exeter
+2023-12-06 01:01:30,281 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[3]
+2023-12-06 01:01:30,295 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:30,364 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:30,364 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div
+2023-12-06 01:01:30,380 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[1]
+2023-12-06 01:01:30,397 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,397 - Logger_file -INFO - Pass:Text is:Melbourne
+2023-12-06 01:01:30,397 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[2]
+2023-12-06 01:01:30,412 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,428 - Logger_file -INFO - Pass:Text is:Brisbane
+2023-12-06 01:01:30,428 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[3]
+2023-12-06 01:01:30,446 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,459 - Logger_file -INFO - Pass:Text is:Sydney
+2023-12-06 01:01:30,459 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[4]
+2023-12-06 01:01:30,475 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,491 - Logger_file -INFO - Pass:Text is:Adelaide
+2023-12-06 01:01:30,491 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[5]
+2023-12-06 01:01:30,507 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,507 - Logger_file -INFO - Pass:Text is:Perth
+2023-12-06 01:01:30,507 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[6]
+2023-12-06 01:01:30,522 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,538 - Logger_file -INFO - Pass:Text is:Canberra
+2023-12-06 01:01:30,538 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[7]
+2023-12-06 01:01:30,554 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,570 - Logger_file -INFO - Pass:Text is:Gold Coast
+2023-12-06 01:01:30,570 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[8]
+2023-12-06 01:01:30,586 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,596 - Logger_file -INFO - Pass:Text is:Coffs Harbour
+2023-12-06 01:01:30,601 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[4]
+2023-12-06 01:01:30,601 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:30,683 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:30,683 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div
+2023-12-06 01:01:30,703 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[1]
+2023-12-06 01:01:30,717 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,728 - Logger_file -INFO - Pass:Text is:Dublin
+2023-12-06 01:01:30,728 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[2]
+2023-12-06 01:01:30,731 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,747 - Logger_file -INFO - Pass:Text is:Cork
+2023-12-06 01:01:30,747 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[5]
+2023-12-06 01:01:30,767 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:30,824 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:30,824 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div
+2023-12-06 01:01:30,839 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[1]
+2023-12-06 01:01:30,856 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,864 - Logger_file -INFO - Pass:Text is:New York City
+2023-12-06 01:01:30,864 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[2]
+2023-12-06 01:01:30,881 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,906 - Logger_file -INFO - Pass:Text is:Chicago
+2023-12-06 01:01:30,906 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[3]
+2023-12-06 01:01:30,927 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,931 - Logger_file -INFO - Pass:Text is:Austin
+2023-12-06 01:01:30,931 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[4]
+2023-12-06 01:01:30,951 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,963 - Logger_file -INFO - Pass:Text is:Houston
+2023-12-06 01:01:30,963 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[5]
+2023-12-06 01:01:30,977 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:30,981 - Logger_file -INFO - Pass:Text is:San Francisco
+2023-12-06 01:01:30,981 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[6]
+2023-12-06 01:01:31,002 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,014 - Logger_file -INFO - Pass:Text is:Boston
+2023-12-06 01:01:31,014 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[7]
+2023-12-06 01:01:31,029 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,031 - Logger_file -INFO - Pass:Text is:Dallas
+2023-12-06 01:01:31,031 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[8]
+2023-12-06 01:01:31,048 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,064 - Logger_file -INFO - Pass:Text is:Washington DC
+2023-12-06 01:01:31,064 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[9]
+2023-12-06 01:01:31,082 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,093 - Logger_file -INFO - Pass:Text is:Philadelphia
+2023-12-06 01:01:31,093 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[10]
+2023-12-06 01:01:31,110 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,114 - Logger_file -INFO - Pass:Text is:College Station
+2023-12-06 01:01:31,114 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[11]
+2023-12-06 01:01:31,135 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,147 - Logger_file -INFO - Pass:Text is:Los Angeles
+2023-12-06 01:01:31,147 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[12]
+2023-12-06 01:01:31,147 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,164 - Logger_file -INFO - Pass:Text is:Lubbock
+2023-12-06 01:01:31,164 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[13]
+2023-12-06 01:01:31,185 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,197 - Logger_file -INFO - Pass:Text is:Miami
+2023-12-06 01:01:31,197 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[14]
+2023-12-06 01:01:31,209 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,214 - Logger_file -INFO - Pass:Text is:Minneapolis
+2023-12-06 01:01:31,214 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[6]
+2023-12-06 01:01:31,236 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:31,313 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:31,313 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div
+2023-12-06 01:01:31,331 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[1]
+2023-12-06 01:01:31,348 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,361 - Logger_file -INFO - Pass:Text is:Toronto
+2023-12-06 01:01:31,361 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[2]
+2023-12-06 01:01:31,378 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,382 - Logger_file -INFO - Pass:Text is:Montreal
+2023-12-06 01:01:31,382 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[3]
+2023-12-06 01:01:31,414 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,425 - Logger_file -INFO - Pass:Text is:Vancouver
+2023-12-06 01:01:31,427 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[7]
+2023-12-06 01:01:31,445 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:31,531 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:31,531 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div
+2023-12-06 01:01:31,550 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[1]
+2023-12-06 01:01:31,567 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,582 - Logger_file -INFO - Pass:Text is:Frankfurt
+2023-12-06 01:01:31,582 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[2]
+2023-12-06 01:01:31,603 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,619 - Logger_file -INFO - Pass:Text is:Hamburg
+2023-12-06 01:01:31,619 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[8]
+2023-12-06 01:01:31,631 - Logger_file -INFO - Clicking on null
+2023-12-06 01:01:31,735 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 01:01:31,735 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div
+2023-12-06 01:01:31,746 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div[1]
+2023-12-06 01:01:31,780 - Logger_file -INFO - Getting Element Text
+2023-12-06 01:01:31,797 - Logger_file -INFO - Pass:Text is:Barcelona
+2023-12-06 01:24:21,398 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:24:24,358 - Logger_file -INFO - open_browser
+2023-12-06 01:24:28,027 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:24:28,093 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:25:23,684 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:25:26,713 - Logger_file -INFO - open_browser
+2023-12-06 01:25:30,698 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:25:30,775 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:30:12,473 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:30:15,502 - Logger_file -INFO - open_browser
+2023-12-06 01:30:19,636 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:30:19,684 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:31:23,225 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:31:25,868 - Logger_file -INFO - open_browser
+2023-12-06 01:31:29,282 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:31:29,335 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:32:40,188 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:32:42,915 - Logger_file -INFO - open_browser
+2023-12-06 01:32:48,949 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:32:49,007 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:35:48,017 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:35:50,970 - Logger_file -INFO - open_browser
+2023-12-06 01:35:54,516 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:35:54,575 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:41:43,720 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:41:46,961 - Logger_file -INFO - open_browser
+2023-12-06 01:41:51,650 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:41:51,742 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:44:36,376 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:44:39,573 - Logger_file -INFO - open_browser
+2023-12-06 01:44:42,972 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:44:43,026 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:47:28,121 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:47:30,881 - Logger_file -INFO - open_browser
+2023-12-06 01:47:34,600 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:47:34,652 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:49:35,083 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:49:38,084 - Logger_file -INFO - open_browser
+2023-12-06 01:49:41,378 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:49:41,433 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:52:31,851 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:52:34,659 - Logger_file -INFO - open_browser
+2023-12-06 01:52:38,620 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:52:38,681 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:53:59,984 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:54:02,810 - Logger_file -INFO - open_browser
+2023-12-06 01:54:03,381 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:54:06,830 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:56:30,982 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:56:34,306 - Logger_file -INFO - open_browser
+2023-12-06 01:56:38,121 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:56:38,181 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:57:23,796 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:57:26,706 - Logger_file -INFO - open_browser
+2023-12-06 01:57:30,178 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:57:30,232 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:59:34,900 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 01:59:37,835 - Logger_file -INFO - open_browser
+2023-12-06 01:59:41,865 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 01:59:41,919 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:13:38,860 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:13:42,698 - Logger_file -INFO - open_browser
+2023-12-06 02:13:46,995 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:13:47,082 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:13:47,140 - Logger_file -INFO - finding Web element By.xpath: //span[text()=Login']
+2023-12-06 02:14:27,198 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:14:30,759 - Logger_file -INFO - open_browser
+2023-12-06 02:14:31,323 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:14:35,381 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:14:35,431 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:14:35,497 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:14:35,513 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:14:35,594 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:14:35,597 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:14:36,514 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:14:36,586 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:14:36,669 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:14:36,671 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:14:36,684 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:14:36,938 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:14:36,938 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:14:37,013 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:14:37,036 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:14:37,220 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:14:43,201 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:14:43,264 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:14:43,280 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:14:43,350 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:14:43,350 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:14:43,369 - Logger_file -INFO - Enteringnull
+2023-12-06 02:14:43,369 - Logger_file -INFO - Fail:Unable to set text: null
+2023-12-06 02:14:43,369 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:14:43,422 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:14:43,438 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:14:44,522 - Logger_file -INFO - Fail:Could not click on Continue
+2023-12-06 02:14:44,538 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 02:14:44,591 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 02:14:44,616 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 02:14:45,713 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 02:14:45,715 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 02:14:45,725 - Logger_file -INFO - EnteringLondon
+2023-12-06 02:14:46,213 - Logger_file -INFO - Pass:London is entered
+2023-12-06 02:14:46,214 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 02:15:43,385 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:15:46,373 - Logger_file -INFO - open_browser
+2023-12-06 02:15:50,292 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:15:50,355 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:15:50,404 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:15:50,510 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:15:50,528 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:15:50,603 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:15:50,604 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:15:51,429 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:15:51,494 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:15:51,551 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:15:51,551 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:15:51,567 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:15:51,796 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:15:51,796 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:15:51,845 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:15:51,862 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:15:51,995 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:15:56,412 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:15:56,482 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:15:56,499 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:15:56,654 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:15:56,654 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:15:56,682 - Logger_file -INFO - Entering273566
+2023-12-06 02:15:56,849 - Logger_file -INFO - Pass:273566 is entered
+2023-12-06 02:15:56,849 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:15:56,912 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:15:56,929 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:15:57,051 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:15:57,051 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 02:15:57,096 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 02:15:57,113 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 02:15:58,195 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 02:15:58,201 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 02:15:58,211 - Logger_file -INFO - EnteringLondon
+2023-12-06 02:15:58,619 - Logger_file -INFO - Pass:London is entered
+2023-12-06 02:15:58,619 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 02:15:59,062 - Logger_file -INFO - Clicking on London
+2023-12-06 02:16:00,129 - Logger_file -INFO - Fail:Could not click on London
+2023-12-06 02:16:00,129 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 02:16:16,474 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:16:19,802 - Logger_file -INFO - open_browser
+2023-12-06 02:16:24,522 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:16:24,582 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:16:24,632 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:16:24,678 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:16:24,690 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:16:24,766 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:16:24,767 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:16:25,588 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:16:25,600 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:16:25,720 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:16:25,720 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:16:25,734 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:16:25,962 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:16:25,963 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:16:26,017 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:16:26,030 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:16:26,175 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:16:29,369 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:16:29,416 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:16:29,432 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:16:29,496 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:16:29,496 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:16:29,511 - Logger_file -INFO - Entering273566
+2023-12-06 02:16:29,612 - Logger_file -INFO - Pass:273566 is entered
+2023-12-06 02:16:29,612 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:16:29,644 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:16:29,660 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:16:29,769 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:17:36,623 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:17:39,590 - Logger_file -INFO - open_browser
+2023-12-06 02:17:44,177 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:17:44,238 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:17:44,281 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:17:44,338 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:17:44,354 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:17:44,470 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:17:44,470 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:17:45,321 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:17:45,379 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:17:45,443 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:17:45,444 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:17:45,461 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:17:45,679 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:17:45,680 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:17:45,726 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:17:45,739 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:17:45,880 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:17:54,793 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:17:54,850 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:17:54,864 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:17:54,934 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:17:54,934 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:17:54,949 - Logger_file -INFO - Entering538582
+2023-12-06 02:17:55,094 - Logger_file -INFO - Pass:538582 is entered
+2023-12-06 02:17:55,094 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:17:55,138 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:17:55,153 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:17:55,326 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:19:01,802 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:19:04,714 - Logger_file -INFO - open_browser
+2023-12-06 02:19:08,181 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:19:08,232 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:19:08,268 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:19:08,319 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:19:08,333 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:19:08,412 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:19:08,412 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:09,194 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:09,217 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:19:09,323 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:19:09,323 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:09,342 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:19:09,542 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:19:09,542 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:09,591 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:09,606 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:19:09,725 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:19:23,790 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:19:23,831 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:19:23,843 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:19:23,890 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:19:23,891 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:19:23,901 - Logger_file -INFO - Entering081640
+2023-12-06 02:19:23,997 - Logger_file -INFO - Pass:081640 is entered
+2023-12-06 02:19:23,997 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:24,038 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:24,052 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:19:24,153 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:19:44,026 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:19:46,919 - Logger_file -INFO - open_browser
+2023-12-06 02:19:50,462 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:19:50,509 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:19:50,538 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:19:50,578 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:19:50,602 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:19:50,676 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:19:50,676 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:51,447 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:51,461 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:19:51,565 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:19:51,566 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:19:51,578 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:19:51,779 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:19:51,780 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:51,833 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:19:51,848 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:19:51,978 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:21:36,350 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:21:36,413 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:21:36,425 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:21:36,538 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:21:36,538 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:21:36,555 - Logger_file -INFO - Entering068614
+2023-12-06 02:21:36,653 - Logger_file -INFO - Pass:068614 is entered
+2023-12-06 02:21:36,653 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:21:36,712 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:21:36,729 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:21:36,857 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:34:37,551 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:34:40,462 - Logger_file -INFO - open_browser
+2023-12-06 02:35:00,227 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:35:03,577 - Logger_file -INFO - open_browser
+2023-12-06 02:35:08,343 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:35:08,399 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:35:08,438 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:35:08,484 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:35:08,498 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:35:08,558 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:35:08,559 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:35:09,261 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:35:09,273 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:35:09,334 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:35:09,335 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:35:09,346 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:35:09,564 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:35:09,565 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:35:09,619 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:35:09,634 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:35:09,797 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:38:30,856 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:38:33,996 - Logger_file -INFO - open_browser
+2023-12-06 02:38:37,823 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:38:37,885 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:38:37,925 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:38:37,978 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:38:37,993 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:38:38,077 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:38:38,078 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:38:39,365 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:38:39,532 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:38:40,566 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:38:40,566 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:38:40,732 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:38:41,656 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:38:41,656 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:38:41,715 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:38:41,732 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:38:41,910 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:40:12,299 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:40:14,981 - Logger_file -INFO - open_browser
+2023-12-06 02:40:18,651 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:40:18,706 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:40:18,751 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:40:18,808 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:40:18,821 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:40:18,906 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:40:18,907 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:40:19,710 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:40:19,730 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:40:19,867 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:40:19,867 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:40:19,882 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:40:20,130 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:40:20,130 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:40:20,188 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:40:20,206 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:40:20,369 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:41:13,980 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:41:14,029 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:41:14,045 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:41:14,104 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:41:14,104 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:41:14,121 - Logger_file -INFO - Entering739482
+2023-12-06 02:41:14,231 - Logger_file -INFO - Pass:739482 is entered
+2023-12-06 02:41:14,231 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:41:14,288 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:41:14,306 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:41:14,422 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:42:46,505 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:42:49,391 - Logger_file -INFO - open_browser
+2023-12-06 02:42:53,038 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:42:53,107 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:42:53,154 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:42:53,221 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:42:53,261 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:42:53,343 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:42:53,343 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:42:54,131 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:42:54,193 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:42:54,251 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:42:54,251 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:42:54,267 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:42:54,506 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:42:54,506 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:42:54,546 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:42:54,570 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:42:54,742 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:44:38,912 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:44:38,976 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:44:38,990 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:44:39,111 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:44:39,120 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:44:39,136 - Logger_file -INFO - Entering761190
+2023-12-06 02:44:39,245 - Logger_file -INFO - Pass:761190 is entered
+2023-12-06 02:44:39,245 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:44:39,303 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:44:39,320 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:44:39,444 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:47:02,577 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:47:05,172 - Logger_file -INFO - open_browser
+2023-12-06 02:47:09,314 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:47:09,412 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:47:09,448 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:47:09,502 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:47:09,517 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:47:09,597 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:47:09,597 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:47:10,653 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:47:10,668 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:47:10,738 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:47:10,740 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:47:10,753 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:47:10,999 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:47:11,000 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:47:11,048 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:47:11,065 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:47:11,225 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:48:54,785 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:48:54,847 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:48:54,856 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:48:54,969 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:48:54,982 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:48:54,998 - Logger_file -INFO - Enteringnull
+2023-12-06 02:48:55,001 - Logger_file -INFO - Fail:Unable to set text: null
+2023-12-06 02:48:55,004 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:48:55,051 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:48:55,069 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:48:56,210 - Logger_file -INFO - Fail:Could not click on Continue
+2023-12-06 02:49:45,540 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:49:48,618 - Logger_file -INFO - open_browser
+2023-12-06 02:49:52,319 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:49:52,375 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:49:52,418 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:49:52,463 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:49:52,479 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:49:52,562 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:49:52,563 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:49:53,374 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:49:53,435 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:49:53,510 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:49:53,511 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:49:53,533 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:49:53,787 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:49:53,787 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:49:53,853 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:49:53,871 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:49:54,023 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:51:37,208 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:51:37,275 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:51:37,291 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:51:37,428 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:51:37,428 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:51:37,444 - Logger_file -INFO - Enteringnull
+2023-12-06 02:51:37,444 - Logger_file -INFO - Fail:Unable to set text: null
+2023-12-06 02:51:37,444 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:51:37,503 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:51:37,518 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:51:38,619 - Logger_file -INFO - Fail:Could not click on Continue
+2023-12-06 02:52:45,986 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:52:48,652 - Logger_file -INFO - open_browser
+2023-12-06 02:52:49,457 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:52:52,769 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:52:52,815 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:52:52,924 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:52:52,938 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:52:53,033 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:52:53,034 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:52:53,882 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:52:53,896 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:52:54,026 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:52:54,027 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:52:54,046 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:52:54,301 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:52:54,302 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:52:54,361 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:52:54,381 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:52:54,540 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:53:29,174 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:53:31,760 - Logger_file -INFO - open_browser
+2023-12-06 02:53:36,518 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:53:36,583 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:53:36,632 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:53:36,693 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:53:36,706 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:53:36,784 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:53:36,784 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:53:37,582 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:53:37,599 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:53:37,665 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:53:37,667 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:53:37,676 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:53:37,928 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:53:37,928 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:53:37,989 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:53:38,005 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:53:38,167 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:54:33,964 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:54:34,005 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:54:34,016 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:54:34,136 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:54:34,147 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:54:34,157 - Logger_file -INFO - Entering833513
+2023-12-06 02:54:34,265 - Logger_file -INFO - Pass:833513 is entered
+2023-12-06 02:54:34,265 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:54:34,314 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:54:34,324 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:54:34,449 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:56:47,112 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:56:50,516 - Logger_file -INFO - open_browser
+2023-12-06 02:56:55,690 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:56:55,773 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:56:55,813 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:56:55,902 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:56:55,912 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:56:56,010 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:56:56,010 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:56:56,897 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:56:56,914 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:56:56,988 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:56:56,988 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:56:57,011 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:56:57,276 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:56:57,277 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:56:57,331 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:56:57,366 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:56:57,544 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:57:53,427 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:57:53,476 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:57:53,482 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:57:53,540 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:57:53,541 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 02:57:53,553 - Logger_file -INFO - Entering482434
+2023-12-06 02:57:53,694 - Logger_file -INFO - Pass:482434 is entered
+2023-12-06 02:57:53,694 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:57:53,729 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:57:53,745 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:57:53,868 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:58:38,944 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 02:58:41,842 - Logger_file -INFO - open_browser
+2023-12-06 02:58:45,775 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:58:45,863 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 02:58:45,921 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:58:45,996 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 02:58:46,012 - Logger_file -INFO - Clicking on Login
+2023-12-06 02:58:46,118 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 02:58:46,118 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:58:46,987 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:58:47,007 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 02:58:47,128 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 02:58:47,128 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 02:58:47,146 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 02:58:47,392 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 02:58:47,392 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:58:47,446 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 02:58:47,460 - Logger_file -INFO - Clicking on Continue
+2023-12-06 02:58:47,609 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 02:58:57,845 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:07:11,321 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 11:07:19,096 - Logger_file -INFO - open_browser
+2023-12-06 11:07:20,349 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:07:25,540 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:07:25,590 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:07:25,639 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:07:25,658 - Logger_file -INFO - Clicking on Login
+2023-12-06 11:07:25,746 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 11:07:25,747 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:07:26,608 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:07:26,684 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:07:26,762 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:07:26,762 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:07:26,777 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 11:07:27,029 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 11:07:27,029 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:07:27,106 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:07:27,106 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:07:27,310 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:07:38,198 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:07:38,240 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:07:38,245 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:07:38,292 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:07:38,292 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:07:38,308 - Logger_file -INFO - Entering611576
+2023-12-06 11:07:38,410 - Logger_file -INFO - Pass:611576 is entered
+2023-12-06 11:07:38,410 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:07:38,444 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:07:38,454 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:07:38,556 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:07:38,556 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:07:38,589 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 11:07:38,608 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 11:07:42,123 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 11:07:42,123 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:07:42,142 - Logger_file -INFO - EnteringLondon
+2023-12-06 11:07:42,725 - Logger_file -INFO - Pass:London is entered
+2023-12-06 11:07:42,725 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 11:07:43,543 - Logger_file -INFO - Clicking on London
+2023-12-06 11:07:47,369 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 11:07:47,370 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:07:47,454 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:07:47,477 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:07:47,870 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:07:47,870 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:07:48,450 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:07:48,465 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:07:48,859 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:07:48,860 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:07:49,398 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:07:49,411 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:07:49,775 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:07:49,775 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:07:50,617 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:07:50,629 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:07:50,718 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:28:15,649 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 11:28:18,700 - Logger_file -INFO - open_browser
+2023-12-06 11:28:23,363 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:28:23,415 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:28:23,456 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:28:23,498 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:28:23,509 - Logger_file -INFO - Clicking on Login
+2023-12-06 11:28:23,566 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 11:28:23,567 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:28:24,212 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:28:24,224 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:28:24,341 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:28:24,342 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:28:24,352 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 11:28:24,558 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 11:28:24,558 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:28:24,624 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:28:24,637 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:28:24,759 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:28:35,731 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:28:35,764 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:28:35,773 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:28:35,813 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:28:35,815 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:28:35,827 - Logger_file -INFO - Entering615720
+2023-12-06 11:28:35,912 - Logger_file -INFO - Pass:615720 is entered
+2023-12-06 11:28:35,912 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:28:35,942 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:28:35,952 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:28:36,029 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:28:36,031 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:28:36,067 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 11:28:36,081 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 11:28:38,158 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 11:28:38,162 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:28:38,175 - Logger_file -INFO - EnteringLondon
+2023-12-06 11:28:38,652 - Logger_file -INFO - Pass:London is entered
+2023-12-06 11:28:38,653 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 11:28:39,018 - Logger_file -INFO - Clicking on London
+2023-12-06 11:28:42,014 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 11:28:42,014 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:28:42,099 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:28:42,126 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:28:42,491 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:28:42,493 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:28:43,131 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:28:43,148 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:28:43,532 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:28:43,533 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:28:43,613 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:28:43,629 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:28:44,375 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:28:44,376 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:28:45,209 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:28:45,224 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:28:45,330 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:28:45,331 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]//i[@class='icon-shortlist']
+2023-12-06 11:28:45,522 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]//i[@class='icon-shortlist']
+2023-12-06 11:28:45,540 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:28:45,667 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:28:45,668 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:28:46,028 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:28:46,066 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:28:47,480 - Logger_file -INFO - Fail:Could not click on More Filters
+2023-12-06 11:54:06,369 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 11:54:11,296 - Logger_file -INFO - open_browser
+2023-12-06 11:54:17,645 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:54:17,764 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:54:17,837 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:54:17,937 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:54:17,961 - Logger_file -INFO - Clicking on Login
+2023-12-06 11:54:18,091 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 11:54:18,093 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:54:19,343 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:54:19,441 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:54:19,597 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:54:19,598 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:54:19,628 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 11:54:19,975 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 11:54:19,976 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:54:20,051 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:54:20,070 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:54:20,285 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:54:31,736 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:54:31,785 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:54:31,800 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:54:31,858 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:54:31,859 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:54:31,872 - Logger_file -INFO - Entering913219
+2023-12-06 11:54:31,964 - Logger_file -INFO - Pass:913219 is entered
+2023-12-06 11:54:31,965 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:54:32,012 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:54:32,032 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:54:32,158 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:54:32,160 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:54:32,213 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 11:54:32,242 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 11:54:35,440 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 11:54:35,448 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:54:35,465 - Logger_file -INFO - EnteringLondon
+2023-12-06 11:54:36,104 - Logger_file -INFO - Pass:London is entered
+2023-12-06 11:54:36,104 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 11:54:36,986 - Logger_file -INFO - Clicking on London
+2023-12-06 11:54:40,551 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 11:54:40,554 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:54:40,649 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:54:40,676 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:54:41,105 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:54:41,106 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:54:41,915 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:54:41,945 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:54:43,105 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:54:43,106 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:54:43,242 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:54:43,263 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:54:44,026 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:54:44,027 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:54:44,873 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:54:45,066 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:54:45,267 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:54:45,269 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:54:45,392 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:54:45,412 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:54:45,560 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:54:45,594 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:54:53,878 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:54:53,900 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:54:54,110 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:54:54,141 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 11:54:54,231 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:54:54,274 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:54:54,286 - Logger_file -INFO - Getting Element Text
+2023-12-06 11:54:54,307 - Logger_file -INFO - Pass:Text is:1
+2023-12-06 11:56:36,384 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 11:56:44,620 - Logger_file -INFO - open_browser
+2023-12-06 11:56:49,539 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:56:49,611 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:56:49,654 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:56:49,710 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:56:49,726 - Logger_file -INFO - Clicking on Login
+2023-12-06 11:56:49,814 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 11:56:49,816 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:56:50,590 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:56:50,606 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:56:50,727 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:56:50,727 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:56:50,742 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 11:56:50,972 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 11:56:50,973 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:56:51,026 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:56:51,047 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:56:51,207 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:57:01,653 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:57:01,700 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:57:01,712 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:57:01,763 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:57:01,764 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:57:01,773 - Logger_file -INFO - Entering747147
+2023-12-06 11:57:01,862 - Logger_file -INFO - Pass:747147 is entered
+2023-12-06 11:57:01,864 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:57:01,905 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:57:01,917 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:57:02,024 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:57:02,025 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:57:02,089 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 11:57:02,109 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 11:57:06,652 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 11:57:06,660 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:57:06,678 - Logger_file -INFO - EnteringLondon
+2023-12-06 11:57:07,336 - Logger_file -INFO - Pass:London is entered
+2023-12-06 11:57:07,337 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 11:57:07,704 - Logger_file -INFO - Clicking on London
+2023-12-06 11:57:11,218 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 11:57:11,220 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:57:11,296 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:57:11,316 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:57:11,772 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:57:11,773 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:57:12,487 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:57:12,509 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:57:13,083 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:57:13,083 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:57:13,973 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:57:13,990 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:57:14,715 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:57:14,716 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:57:16,706 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:57:16,797 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:57:17,091 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:57:17,092 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:57:17,423 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:57:17,441 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:57:17,672 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:57:17,702 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:57:25,975 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:57:25,994 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:57:26,232 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:57:26,244 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 11:57:26,372 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:57:27,623 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:57:27,636 - Logger_file -INFO - Getting Element Text
+2023-12-06 11:57:27,658 - Logger_file -INFO - Pass:Text is:1
+2023-12-06 11:57:27,659 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:57:27,708 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:57:27,841 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:57:27,841 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 11:57:27,880 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 11:57:27,894 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:57:28,039 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:57:28,041 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 11:57:28,219 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 11:57:28,241 - Logger_file -INFO - Clicking on Logout
+2023-12-06 11:57:28,720 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Logout
+2023-12-06 11:58:23,858 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 11:58:30,128 - Logger_file -INFO - open_browser
+2023-12-06 11:58:35,546 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:58:35,651 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 11:58:35,710 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:58:35,802 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 11:58:35,823 - Logger_file -INFO - Clicking on Login
+2023-12-06 11:58:36,001 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 11:58:36,002 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:58:37,094 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:58:37,119 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:58:37,335 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:58:37,336 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 11:58:37,353 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 11:58:37,664 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 11:58:37,664 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:58:37,734 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:58:37,751 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:58:37,926 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:58:48,675 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:58:48,727 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:58:48,742 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 11:58:48,803 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 11:58:48,803 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 11:58:48,819 - Logger_file -INFO - Entering640627
+2023-12-06 11:58:48,924 - Logger_file -INFO - Pass:640627 is entered
+2023-12-06 11:58:48,925 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:58:48,974 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 11:58:48,988 - Logger_file -INFO - Clicking on Continue
+2023-12-06 11:58:49,102 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 11:58:49,104 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:58:49,161 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 11:58:49,180 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 11:58:53,109 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 11:58:53,115 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 11:58:53,135 - Logger_file -INFO - EnteringLondon
+2023-12-06 11:58:53,818 - Logger_file -INFO - Pass:London is entered
+2023-12-06 11:58:53,819 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 11:58:54,474 - Logger_file -INFO - Clicking on London
+2023-12-06 11:58:57,696 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 11:58:57,697 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:58:57,790 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 11:58:57,809 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:58:58,259 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:58:58,260 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:58:58,938 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 11:58:58,964 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:58:59,548 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:58:59,549 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:59:00,609 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 11:59:00,639 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:59:01,974 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:59:01,975 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:59:02,843 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 11:59:02,872 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:59:03,076 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:59:03,076 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:59:03,284 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 11:59:03,302 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 11:59:03,491 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 11:59:03,523 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:59:11,629 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:59:11,663 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:59:11,941 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:59:11,957 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 11:59:12,009 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:59:13,384 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 11:59:13,402 - Logger_file -INFO - Getting Element Text
+2023-12-06 11:59:13,435 - Logger_file -INFO - Pass:Text is:1
+2023-12-06 11:59:13,436 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 11:59:13,459 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:59:13,558 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:59:13,558 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 11:59:13,603 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 11:59:13,620 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 11:59:13,830 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 11:59:13,830 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 11:59:14,058 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 11:59:14,076 - Logger_file -INFO - Clicking on Logout
+2023-12-06 11:59:14,189 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Logout
+2023-12-06 12:12:05,235 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 12:12:27,713 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 12:12:31,445 - Logger_file -INFO - open_browser
+2023-12-06 12:12:35,712 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:12:35,803 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:12:35,864 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 12:12:35,950 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 12:12:35,984 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 12:12:36,582 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 12:12:36,582 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 12:12:36,625 - Logger_file -INFO - EnteringLondon
+2023-12-06 12:12:36,830 - Logger_file -INFO - Pass:London is entered
+2023-12-06 12:12:36,832 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 12:12:37,574 - Logger_file -INFO - Clicking on London
+2023-12-06 12:12:40,864 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 12:12:40,869 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 12:12:41,049 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 12:12:41,075 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:12:41,524 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:12:41,525 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 12:12:42,074 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 12:12:42,092 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:12:42,537 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:12:42,537 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 12:12:43,313 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 12:12:43,551 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:12:44,080 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:12:44,081 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 12:12:45,156 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 12:12:45,180 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:12:45,369 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:12:45,371 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 12:12:45,461 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 12:12:45,487 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:12:45,689 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:12:53,265 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 12:12:58,724 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 12:13:00,429 - Logger_file -INFO - open_browser
+2023-12-06 12:13:04,619 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:13:04,693 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:13:04,737 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 12:13:04,804 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 12:13:04,824 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 12:13:05,394 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Search Box
+2023-12-06 12:13:05,395 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button
+2023-12-06 12:13:05,430 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[2]
+2023-12-06 12:13:05,454 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:05,562 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:05,563 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div
+2023-12-06 12:13:05,591 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[1]
+2023-12-06 12:13:05,610 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,638 - Logger_file -INFO - Pass:Text is:London
+2023-12-06 12:13:05,638 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[2]
+2023-12-06 12:13:05,659 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,670 - Logger_file -INFO - Pass:Text is:Birmingham
+2023-12-06 12:13:05,671 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[3]
+2023-12-06 12:13:05,694 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,706 - Logger_file -INFO - Pass:Text is:Leicester
+2023-12-06 12:13:05,707 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[4]
+2023-12-06 12:13:05,729 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,743 - Logger_file -INFO - Pass:Text is:Nottingham
+2023-12-06 12:13:05,744 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[5]
+2023-12-06 12:13:05,760 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,772 - Logger_file -INFO - Pass:Text is:Liverpool
+2023-12-06 12:13:05,773 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[6]
+2023-12-06 12:13:05,790 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,799 - Logger_file -INFO - Pass:Text is:Coventry
+2023-12-06 12:13:05,799 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[7]
+2023-12-06 12:13:05,821 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,836 - Logger_file -INFO - Pass:Text is:Sheffield
+2023-12-06 12:13:05,837 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[8]
+2023-12-06 12:13:05,858 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,871 - Logger_file -INFO - Pass:Text is:Leeds
+2023-12-06 12:13:05,871 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[9]
+2023-12-06 12:13:05,891 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,910 - Logger_file -INFO - Pass:Text is:Newcastle Upon Tyne
+2023-12-06 12:13:05,910 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[10]
+2023-12-06 12:13:05,930 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,943 - Logger_file -INFO - Pass:Text is:Manchester
+2023-12-06 12:13:05,944 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[11]
+2023-12-06 12:13:05,960 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:05,972 - Logger_file -INFO - Pass:Text is:Cardiff
+2023-12-06 12:13:05,972 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[12]
+2023-12-06 12:13:05,990 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,003 - Logger_file -INFO - Pass:Text is:Swansea
+2023-12-06 12:13:06,003 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[13]
+2023-12-06 12:13:06,023 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,032 - Logger_file -INFO - Pass:Text is:Edinburgh
+2023-12-06 12:13:06,033 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[14]
+2023-12-06 12:13:06,050 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,060 - Logger_file -INFO - Pass:Text is:Salford
+2023-12-06 12:13:06,060 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[15]
+2023-12-06 12:13:06,075 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,086 - Logger_file -INFO - Pass:Text is:Plymouth
+2023-12-06 12:13:06,087 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[16]
+2023-12-06 12:13:06,104 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,115 - Logger_file -INFO - Pass:Text is:Aberdeen
+2023-12-06 12:13:06,115 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[17]
+2023-12-06 12:13:06,129 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,139 - Logger_file -INFO - Pass:Text is:Chester
+2023-12-06 12:13:06,139 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[18]
+2023-12-06 12:13:06,156 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,167 - Logger_file -INFO - Pass:Text is:Lincoln
+2023-12-06 12:13:06,167 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[2]//section/div[2]//div[19]
+2023-12-06 12:13:06,187 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,197 - Logger_file -INFO - Pass:Text is:Exeter
+2023-12-06 12:13:06,197 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[3]
+2023-12-06 12:13:06,210 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:06,280 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:06,280 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div
+2023-12-06 12:13:06,300 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[1]
+2023-12-06 12:13:06,313 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,324 - Logger_file -INFO - Pass:Text is:Melbourne
+2023-12-06 12:13:06,325 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[2]
+2023-12-06 12:13:06,338 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,356 - Logger_file -INFO - Pass:Text is:Brisbane
+2023-12-06 12:13:06,356 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[3]
+2023-12-06 12:13:06,374 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,386 - Logger_file -INFO - Pass:Text is:Sydney
+2023-12-06 12:13:06,387 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[4]
+2023-12-06 12:13:06,408 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,419 - Logger_file -INFO - Pass:Text is:Adelaide
+2023-12-06 12:13:06,420 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[5]
+2023-12-06 12:13:06,437 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,451 - Logger_file -INFO - Pass:Text is:Perth
+2023-12-06 12:13:06,451 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[6]
+2023-12-06 12:13:06,470 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,480 - Logger_file -INFO - Pass:Text is:Canberra
+2023-12-06 12:13:06,481 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[7]
+2023-12-06 12:13:06,497 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,508 - Logger_file -INFO - Pass:Text is:Gold Coast
+2023-12-06 12:13:06,509 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[3]//section/div[2]//div[8]
+2023-12-06 12:13:06,525 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,537 - Logger_file -INFO - Pass:Text is:Coffs Harbour
+2023-12-06 12:13:06,538 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[4]
+2023-12-06 12:13:06,557 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:06,647 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:06,647 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div
+2023-12-06 12:13:06,677 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[1]
+2023-12-06 12:13:06,695 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,713 - Logger_file -INFO - Pass:Text is:Dublin
+2023-12-06 12:13:06,714 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[4]//section/div[2]//div[2]
+2023-12-06 12:13:06,737 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,755 - Logger_file -INFO - Pass:Text is:Cork
+2023-12-06 12:13:06,755 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[5]
+2023-12-06 12:13:06,773 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:06,868 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:06,868 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div
+2023-12-06 12:13:06,892 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[1]
+2023-12-06 12:13:06,914 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,929 - Logger_file -INFO - Pass:Text is:New York City
+2023-12-06 12:13:06,929 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[2]
+2023-12-06 12:13:06,963 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:06,980 - Logger_file -INFO - Pass:Text is:Chicago
+2023-12-06 12:13:06,980 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[3]
+2023-12-06 12:13:07,001 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,014 - Logger_file -INFO - Pass:Text is:Austin
+2023-12-06 12:13:07,015 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[4]
+2023-12-06 12:13:07,032 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,045 - Logger_file -INFO - Pass:Text is:Houston
+2023-12-06 12:13:07,046 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[5]
+2023-12-06 12:13:07,064 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,079 - Logger_file -INFO - Pass:Text is:San Francisco
+2023-12-06 12:13:07,080 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[6]
+2023-12-06 12:13:07,096 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,107 - Logger_file -INFO - Pass:Text is:Boston
+2023-12-06 12:13:07,108 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[7]
+2023-12-06 12:13:07,125 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,138 - Logger_file -INFO - Pass:Text is:Dallas
+2023-12-06 12:13:07,139 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[8]
+2023-12-06 12:13:07,159 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,171 - Logger_file -INFO - Pass:Text is:Washington DC
+2023-12-06 12:13:07,172 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[9]
+2023-12-06 12:13:07,188 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,201 - Logger_file -INFO - Pass:Text is:Philadelphia
+2023-12-06 12:13:07,201 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[10]
+2023-12-06 12:13:07,221 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,231 - Logger_file -INFO - Pass:Text is:College Station
+2023-12-06 12:13:07,231 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[11]
+2023-12-06 12:13:07,249 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,271 - Logger_file -INFO - Pass:Text is:Los Angeles
+2023-12-06 12:13:07,272 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[12]
+2023-12-06 12:13:07,288 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,296 - Logger_file -INFO - Pass:Text is:Lubbock
+2023-12-06 12:13:07,297 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[13]
+2023-12-06 12:13:07,312 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,327 - Logger_file -INFO - Pass:Text is:Miami
+2023-12-06 12:13:07,328 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[5]//section/div[2]//div[14]
+2023-12-06 12:13:07,344 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,355 - Logger_file -INFO - Pass:Text is:Minneapolis
+2023-12-06 12:13:07,356 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[6]
+2023-12-06 12:13:07,371 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:07,445 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:07,445 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div
+2023-12-06 12:13:07,467 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[1]
+2023-12-06 12:13:07,484 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,496 - Logger_file -INFO - Pass:Text is:Toronto
+2023-12-06 12:13:07,496 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[2]
+2023-12-06 12:13:07,515 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,533 - Logger_file -INFO - Pass:Text is:Montreal
+2023-12-06 12:13:07,535 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[6]//section/div[2]//div[3]
+2023-12-06 12:13:07,553 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,563 - Logger_file -INFO - Pass:Text is:Vancouver
+2023-12-06 12:13:07,563 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[7]
+2023-12-06 12:13:07,577 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:07,677 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:07,677 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div
+2023-12-06 12:13:07,706 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[1]
+2023-12-06 12:13:07,729 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,748 - Logger_file -INFO - Pass:Text is:Frankfurt
+2023-12-06 12:13:07,748 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[7]//section/div[2]//div[2]
+2023-12-06 12:13:07,771 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,783 - Logger_file -INFO - Pass:Text is:Hamburg
+2023-12-06 12:13:07,784 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//button[8]
+2023-12-06 12:13:07,799 - Logger_file -INFO - Clicking on null
+2023-12-06 12:13:07,891 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on null
+2023-12-06 12:13:07,891 - Logger_file -INFO - finding Webelements By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div
+2023-12-06 12:13:07,913 - Logger_file -INFO - finding Web element By.xpath: //div[contains(@class,'amber-Tabs-tabsList')]//following-sibling::div[8]//section/div[2]//div[1]
+2023-12-06 12:13:07,937 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:07,963 - Logger_file -INFO - Pass:Text is:Barcelona
+2023-12-06 12:13:13,433 - Logger_file -INFO - Setting Up chrome 
+2023-12-06 12:13:15,008 - Logger_file -INFO - open_browser
+2023-12-06 12:13:19,229 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:13:19,287 - Logger_file -INFO - finding Web element By.xpath: //h2[contains(text(),'Home away from home!')]
+2023-12-06 12:13:19,333 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 12:13:19,393 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 12:13:19,407 - Logger_file -INFO - Clicking on Login
+2023-12-06 12:13:19,555 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Login
+2023-12-06 12:13:19,557 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 12:13:20,485 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 12:13:20,562 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 12:13:20,647 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 12:13:20,648 - Logger_file -INFO - finding Web element By.name: email
+2023-12-06 12:13:20,664 - Logger_file -INFO - Enteringigtanu848@gmail.com
+2023-12-06 12:13:20,894 - Logger_file -INFO - Pass:igtanu848@gmail.com is entered
+2023-12-06 12:13:20,894 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 12:13:20,940 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 12:13:20,951 - Logger_file -INFO - Clicking on Continue
+2023-12-06 12:13:21,111 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 12:13:30,750 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 12:13:30,793 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 12:13:30,803 - Logger_file -INFO - Clicking on Enter Email
+2023-12-06 12:13:30,845 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Enter Email
+2023-12-06 12:13:30,845 - Logger_file -INFO - finding Web element By.name: otp
+2023-12-06 12:13:30,858 - Logger_file -INFO - Entering113916
+2023-12-06 12:13:30,929 - Logger_file -INFO - Pass:113916 is entered
+2023-12-06 12:13:30,930 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 12:13:30,958 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Continue']
+2023-12-06 12:13:30,965 - Logger_file -INFO - Clicking on Continue
+2023-12-06 12:13:31,038 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Continue
+2023-12-06 12:13:31,040 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 12:13:31,073 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Search by')]
+2023-12-06 12:13:31,088 - Logger_file -INFO - Clicking on Search Box
+2023-12-06 12:13:33,434 - Logger_file -INFO - Fail:Could not click on Search Box
+2023-12-06 12:13:33,438 - Logger_file -INFO - finding Web element By.id: main-search
+2023-12-06 12:13:33,453 - Logger_file -INFO - EnteringLondon
+2023-12-06 12:13:33,991 - Logger_file -INFO - Pass:London is entered
+2023-12-06 12:13:33,991 - Logger_file -INFO - finding Web element By.xpath: //li//div[contains(@class,'amber-Text-root') and (text()='London')]
+2023-12-06 12:13:34,343 - Logger_file -INFO - Clicking on London
+2023-12-06 12:13:42,308 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on London
+2023-12-06 12:13:42,309 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 12:13:42,379 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'More Filters')]
+2023-12-06 12:13:42,393 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:13:42,666 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:13:42,666 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 12:13:43,195 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Room')]
+2023-12-06 12:13:43,223 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:13:43,725 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:13:43,725 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 12:13:44,380 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Private Bathroom')]
+2023-12-06 12:13:44,395 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:13:44,780 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:13:44,780 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 12:13:45,933 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Show')]
+2023-12-06 12:13:45,957 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:13:46,162 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:13:46,162 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 12:13:46,326 - Logger_file -INFO - finding Web element By.xpath: //div[@class='search-list-inner-container']/div[2]
+2023-12-06 12:13:46,340 - Logger_file -INFO - Clicking on More Filters
+2023-12-06 12:13:46,552 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on More Filters
+2023-12-06 12:13:46,568 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 12:13:54,364 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 12:13:54,459 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 12:13:54,673 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 12:13:54,683 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Lebus St, London, N17 9FQ, United Kingdom')]
+2023-12-06 12:13:54,735 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 12:13:55,437 - Logger_file -INFO - finding Web element By.xpath: //span[contains(text(),'Shortlist')]//span
+2023-12-06 12:13:55,454 - Logger_file -INFO - Getting Element Text
+2023-12-06 12:13:55,476 - Logger_file -INFO - Pass:Text is:1
+2023-12-06 12:13:55,476 - Logger_file -INFO - finding Web element By.xpath: //div[contains(text(),'Starting from')]//parent::div//i[contains(@class,'icon-shortlist')]
+2023-12-06 12:13:55,489 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 12:13:55,548 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 12:13:55,548 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 12:13:55,577 - Logger_file -INFO - finding Web element By.xpath: //button[(@aria-label='my profile')]//i[contains(@class,'icon-menu')]
+2023-12-06 12:13:55,592 - Logger_file -INFO - Clicking on icon shorlist
+2023-12-06 12:13:55,714 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on icon shorlist
+2023-12-06 12:13:55,714 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 12:13:55,845 - Logger_file -INFO - finding Web element By.xpath: //*[contains(text(),'Logout')]
+2023-12-06 12:13:55,874 - Logger_file -INFO - Clicking on Logout
+2023-12-06 12:13:56,160 - Logger_file -INFO - Pass:SuccessfuLogsy clicked on Logout
+2023-12-06 12:13:56,162 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
+2023-12-06 12:14:03,540 - Logger_file -INFO - finding Web element By.xpath: //span[text()='Login']
