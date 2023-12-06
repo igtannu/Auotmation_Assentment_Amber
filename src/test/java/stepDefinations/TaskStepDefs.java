@@ -154,7 +154,7 @@ public class TaskStepDefs {
 	@Then("Verify Logout sucessfully")
 	public void verifyLogout() {
 		BrowserHandle.wait.until(ExpectedConditions.visibilityOf(pom.Btns("Login")));
-		Assert.assertTrue(pom.Btns("Login").isDisplayed());
+		Assert.assertFalse(pom.Btns("Login").isDisplayed());
 	}
 
 	@When("Log out of your account")

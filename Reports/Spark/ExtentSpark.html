@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">MSIL MICRM Automation Report</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Dec 6, 2023 12:12:26 pm</span></a>
+<a href="#"><span class="badge badge-primary">Dec 6, 2023 01:27:49 pm</span></a>
 </li>
 </ul>
 </div>
@@ -57,6 +57,11 @@
 <span class="ico"><i class="fa fa-tag"></i></span>
 </a>
 </li>
+<li class="nav-item dropdown" onclick="toggleView('exception-view')">
+<a id="nav-exception" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bug"></i></span>
+</a>
+</li>
 </ul>
 </div>
 </div>      <div class="vcontainer">
@@ -66,25 +71,25 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Dec 6, 2023 12:12:26 pm</h3>
+<h3>Dec 6, 2023 01:27:49 pm</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Dec 6, 2023 12:14:08 pm</h3>
+<h3>Dec 6, 2023 01:29:03 pm</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-pass">Features Passed</p>
-<h3>1</h3>
+<h3>0</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-fail">Features Failed</p>
-<h3>0</h3>
+<h3>1</h3>
 </div></div>
 </div>
 </div>
@@ -100,12 +105,12 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'>
-<b>1</b> features passed
+<div><small data-tooltip='0%'>
+<b>0</b> features passed
 </small>
 </div>
 <div>
-<small data-tooltip='0%'><b>0</b> features failed,
+<small data-tooltip='100%'><b>1</b> features failed,
 <b>0</b> skipped, <b data-tooltip='0%'>0</b> others
 </small>
 </div>
@@ -123,9 +128,9 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>3</b> scenarios passed</small></div>
+<div><small data-tooltip='0%'><b>0</b> scenarios passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> scenarios failed,
+<small data-tooltip='100%'><b>1</b> scenarios failed,
 <b>0</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
@@ -143,9 +148,9 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>23</b> steps passed</small></div>
+<div><small data-tooltip='92%'><b>12</b> steps passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> steps failed,
+<small data-tooltip='7%'><b>1</b> steps failed,
 <b>0</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
@@ -162,7 +167,7 @@
 </div></div>
 <script>
 var timeline = {
-"Amber Student Test Automation Assesment":101.288
+"Amber Student Test Automation Assesment":72.459
 };
 </script>
 <div class="row">
@@ -173,27 +178,27 @@ var timeline = {
 <thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
 <tr>
 <td>@smoke</td>
+<td>0</td>
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 <tr>
 <td>@sanity</td>
-<td>3</td>
+<td>0</td>
+<td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 <tr>
 <td>@regression</td>
-<td>3</td>
+<td>0</td>
+<td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 </tbody>
 </table></div>
@@ -230,19 +235,19 @@ var timeline = {
 <script>
 var statusGroup = {
 parentCount: 5,
-passParent: 1,
-failParent: 0,
+passParent: 0,
+failParent: 1,
 warningParent: 0,
 skipParent: 0,
 childCount: 5,
-passChild: 3,
-failChild: 0,
+passChild: 0,
+failChild: 1,
 warningChild: 0,
 skipChild: 0,
 infoChild: 0,
 grandChildCount: 5,
-passGrandChild: 23,
-failGrandChild: 0,
+passGrandChild: 12,
+failGrandChild: 1,
 warningGrandChild: 0,
 skipGrandChild: 0,
 infoGrandChild: 0,
@@ -258,7 +263,7 @@ eventsCount: 5,
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
 <ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
-<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<a class="dropdown-item" status="fail" href="#"><span>Fail</span><span class="status danger"></span></a>
 <div class="dropdown-divider"></div>
 <a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 </ul>
@@ -272,25 +277,25 @@ eventsCount: 5,
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
-        <li class="test-item"  status="pass" test-id="1"
+        <li class="test-item"  status="fail" test-id="1"
           author=""
           tag=""
           device="">
           <div class="test-detail">
             <p class="name">Amber Student Test Automation Assesment</p>
             <p class="text-sm">
-              <span>12:12:27 pm</span> / <span>00:01:41:288</span>
-              <span class="badge pass-bg log float-right">Pass</span>
+              <span>1:27:50 pm</span> / <span>00:01:12:459</span>
+              <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
           <div class="test-contents d-none">
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">Amber Student Test Automation Assesment</h5>
-<span class='badge badge-success'>12.06.2023 12:12:27 pm</span>
-<span class='badge badge-danger'>12.06.2023 12:14:08 pm</span>
-<span class='badge badge-default'>00:01:41:288</span>
+<h5 class="test-status text-fail">Amber Student Test Automation Assesment</h5>
+<span class='badge badge-success'>12.06.2023 1:27:50 pm</span>
+<span class='badge badge-danger'>12.06.2023 1:29:03 pm</span>
+<span class='badge badge-default'>00:01:12:459</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -302,87 +307,13 @@ eventsCount: 5,
   <div class="card">
     <div class="card-header" role="tab">
       <div class="card-title">
-        <div class="node" id="2"><span class="badge log pass-bg mr-2">Pass</span>Task 1</div>
-      </div>
-    </div>
-        <div class="collapse">
-          <div class="card-body">
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.open_browser()">
-                <span>Given Open Browser and visit URL</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.user_is_on_company_site()">
-                <span>Given User is on Company Site</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.user_search_for_accommodation_in_london(java.lang.String)">
-                <span>When User Search for accommodation in "London"</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.filter_search_results_for_room_type_and_sharing(java.lang.String,java.lang.String)">
-                <span>And Filter search results for Room Type "Private Room" and Sharing "Private Bathroom"</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.open_the_second_search_result_in_a_new_tab()">
-                <span>And Open the second search result in a new tab</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.switch_to_the_tab()">
-                <span>And Switch to the tab</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.assert_the_title_and_location_of_the_property()">
-                <span>Then Assert the title and location of the property</span>
-      <div>
-      </div>
-              </div>
+        <div class="node" id="2"><span class="badge log fail-bg mr-2">Fail</span>Task 3</div>
+          <div class="status-avatar float-right mr-4">
+            <i class="fa fa-paperclip"></i>
           </div>
-        </div>
-  </div>
-  <div class="card">
-    <div class="card-header" role="tab">
-      <div class="card-title">
-        <div class="node" id="14"><span class="badge log pass-bg mr-2">Pass</span>Task 2</div>
       </div>
     </div>
-        <div class="collapse">
-          <div class="card-body">
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.open_browser()">
-                <span>Given Open Browser and visit URL</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.user_is_on_company_site()">
-                <span>Given User is on Company Site</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.click_on_search_bar()">
-                <span>When Click on Search bar</span>
-      <div>
-      </div>
-              </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.verify_list_of_popular_cities_is_different_for_all_countries_and_no_city_is_repeated_or_mentioned_in_more_than_country_tab()">
-                <span>Then Verify list of popular cities is different for all countries and no city is repeated or mentioned in more than one country tab by Iterate over the countries tab</span>
-      <div>
-      </div>
-              </div>
-          </div>
-        </div>
-  </div>
-  <div class="card">
-    <div class="card-header" role="tab">
-      <div class="card-title">
-        <div class="node" id="23"><span class="badge log pass-bg mr-2">Pass</span>Task 3</div>
-      </div>
-    </div>
-        <div class="collapse">
+        <div class="">
           <div class="card-body">
               <div class="step pass-bg" title="stepDefinations.TaskStepDefs.open_browser()">
                 <span>Given Open Browser and visit URL</span>
@@ -439,8 +370,28 @@ eventsCount: 5,
       <div>
       </div>
               </div>
-              <div class="step pass-bg" title="stepDefinations.TaskStepDefs.verifyLogout()">
+              <div class="step fail-bg" title="stepDefinations.TaskStepDefs.verifyLogout()">
                 <span>Then Verify Logout sucessfully</span>
+      <div>
+        <textarea disabled class="code-block">java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertFalse(Assert.java:67)
+	at org.testng.Assert.assertFalse(Assert.java:77)
+	at stepDefinations.TaskStepDefs.verifyLogout(TaskStepDefs.java:157)
+	at ✽.Verify Logout sucessfully(file:///C:/Users/tanugupta02/OneDrive%20-%20Nagarro/Desktop/Automation/src/test/java/features/Tasks.feature:34)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step pass-bg" title="AFTER">
+                <span>hooks.ApplicationHooks.tearDown(io.cucumber.java.Scenario)</span>
+      <div>Task_3
+          <div class="row mb-3"><div class="col-md-3">
+<img data-featherlight='../FailedScreenShots/embedded1.png' src="../FailedScreenShots/embedded1.png">
+    
+    </div></div>
+</div>
       <div>
       </div>
               </div>
@@ -470,7 +421,7 @@ eventsCount: 5,
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>1</span>
+<span class='badge log badge-danger'>1</span>
 </span>
 <p class="name">@smoke</p>
 <p class="duration text-sm">1 tests</p>
@@ -478,7 +429,7 @@ eventsCount: 5,
 <div class="test-contents d-none">
 <div class="info">
 <h4>@smoke</h4>
-<span status="pass" class='badge log pass-bg'>1 passed</span>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -489,11 +440,11 @@ eventsCount: 5,
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:13:13 pm</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>13:27:50 pm</td>
 <td>
-<a href="#" class="linked" test-id='1' id='23'>Task 3</a>
+<a href="#" class="linked" test-id='1' id='2'>Task 3</a>
 <div class="">
 <span class="badge badge-default">Amber Student Test Automation Assesment.Task 3</span>
 </div>
@@ -506,15 +457,15 @@ eventsCount: 5,
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>3</span>
+<span class='badge log badge-danger'>1</span>
 </span>
 <p class="name">@sanity</p>
-<p class="duration text-sm">3 tests</p>
+<p class="duration text-sm">1 tests</p>
 </div>
 <div class="test-contents d-none">
 <div class="info">
 <h4>@sanity</h4>
-<span status="pass" class='badge log pass-bg'>3 passed</span>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -525,31 +476,11 @@ eventsCount: 5,
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:12:27 pm</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>13:27:50 pm</td>
 <td>
-<a href="#" class="linked" test-id='1' id='2'>Task 1</a>
-<div class="">
-<span class="badge badge-default">Amber Student Test Automation Assesment.Task 1</span>
-</div>
-</td>
-</tr>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:12:58 pm</td>
-<td>
-<a href="#" class="linked" test-id='1' id='14'>Task 2</a>
-<div class="">
-<span class="badge badge-default">Amber Student Test Automation Assesment.Task 2</span>
-</div>
-</td>
-</tr>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:13:13 pm</td>
-<td>
-<a href="#" class="linked" test-id='1' id='23'>Task 3</a>
+<a href="#" class="linked" test-id='1' id='2'>Task 3</a>
 <div class="">
 <span class="badge badge-default">Amber Student Test Automation Assesment.Task 3</span>
 </div>
@@ -562,15 +493,15 @@ eventsCount: 5,
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>3</span>
+<span class='badge log badge-danger'>1</span>
 </span>
 <p class="name">@regression</p>
-<p class="duration text-sm">3 tests</p>
+<p class="duration text-sm">1 tests</p>
 </div>
 <div class="test-contents d-none">
 <div class="info">
 <h4>@regression</h4>
-<span status="pass" class='badge log pass-bg'>3 passed</span>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -581,33 +512,65 @@ eventsCount: 5,
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:12:27 pm</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>13:27:50 pm</td>
 <td>
-<a href="#" class="linked" test-id='1' id='2'>Task 1</a>
-<div class="">
-<span class="badge badge-default">Amber Student Test Automation Assesment.Task 1</span>
-</div>
-</td>
-</tr>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:12:58 pm</td>
-<td>
-<a href="#" class="linked" test-id='1' id='14'>Task 2</a>
-<div class="">
-<span class="badge badge-default">Amber Student Test Automation Assesment.Task 2</span>
-</div>
-</td>
-</tr>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>12:13:13 pm</td>
-<td>
-<a href="#" class="linked" test-id='1' id='23'>Task 3</a>
+<a href="#" class="linked" test-id='1' id='2'>Task 3</a>
 <div class="">
 <span class="badge badge-default">Amber Student Test Automation Assesment.Task 3</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="test-wrapper row view exception-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Exception</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">1</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>1</span>
+</span>
+<p class="name">java.lang.AssertionError</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>java.lang.AssertionError</h4>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>13:28:46 pm</td>
+<td>
+<a href="#" class="linked" test-id='1' id='16'>Then Verify Logout sucessfully</a>
+<div class="">
+<span class="badge badge-default">Amber Student Test Automation Assesment.Task 3.Then Verify Logout sucessfully</span>
 </div>
 </td>
 </tr>

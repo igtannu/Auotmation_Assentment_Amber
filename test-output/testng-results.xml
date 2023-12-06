@@ -1,59 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-06T12:12:26 IST" name="Suite" finished-at="2023-12-06T12:14:09 IST" duration-ms="102940">
+  <suite started-at="2023-12-06T13:27:49 IST" name="Default suite" finished-at="2023-12-06T13:29:03 IST" duration-ms="74152">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6743e411]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@31190526]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-12-06T12:12:26 IST" name="Test" finished-at="2023-12-06T12:14:09 IST" duration-ms="102940">
+    <test started-at="2023-12-06T13:27:49 IST" name="Default test" finished-at="2023-12-06T13:29:03 IST" duration-ms="74152">
       <class name="runner.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@6743e411]" started-at="2023-12-06T12:12:26 IST" name="setUpClass" finished-at="2023-12-06T12:12:27 IST" duration-ms="798" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@31190526]" started-at="2023-12-06T13:27:49 IST" name="setUpClass" finished-at="2023-12-06T13:27:50 IST" duration-ms="920" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@46994f26]]>
+                <![CDATA[org.testng.TestRunner@18dd7767]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6743e411]" started-at="2023-12-06T12:12:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-06T12:12:58 IST" duration-ms="31243" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Task 1"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Amber Student Test Automation Assesment"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6743e411]" started-at="2023-12-06T12:12:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-06T12:13:13 IST" duration-ms="14699" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Task 2"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Amber Student Test Automation Assesment"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6743e411]" started-at="2023-12-06T12:13:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-06T12:14:08 IST" duration-ms="55551" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@31190526]" started-at="2023-12-06T13:27:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-06T13:29:03 IST" duration-ms="72651" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -66,10 +34,25 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertFalse(Assert.java:67)
+at org.testng.Assert.assertFalse(Assert.java:77)
+at stepDefinations.TaskStepDefs.verifyLogout(TaskStepDefs.java:157)
+at ✽.Verify Logout sucessfully(file:///C:/Users/tanugupta02/OneDrive%20-%20Nagarro/Desktop/Automation/src/test/java/features/Tasks.feature:34)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@6743e411]" started-at="2023-12-06T12:14:08 IST" name="tearDownClass" finished-at="2023-12-06T12:14:09 IST" duration-ms="590" status="FAIL">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@31190526]" started-at="2023-12-06T13:29:03 IST" name="tearDownClass" finished-at="2023-12-06T13:29:03 IST" duration-ms="537" status="FAIL">
           <exception class="java.lang.reflect.InaccessibleObjectException">
             <message>
               <![CDATA[Unable to make field private java.lang.String java.lang.Throwable.detailMessage accessible: module java.base does not "opens java.lang" to unnamed module @7506e922]]>
@@ -157,6 +140,6 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- runner.TestRunner -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
