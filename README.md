@@ -13,7 +13,8 @@ Automation Demo
 
 
 
-https://github.com/igtannu/Auotmation_Assentment_Amber/assets/65532242/2843ed45-20ba-44eb-b7ce-ef64948a83f6
+https://github.com/igtannu/Auotmation_Assentment_Amber/assets/65532242/57ce1af4-e3cf-4692-a21f-bf0cb0499fd4
+
 
 
 ## Running Tests
