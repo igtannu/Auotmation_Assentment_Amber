@@ -8,7 +8,12 @@ Created Three Task as mentions in Assesment
 
 ## Demo
 
-Insert gif or link to demo
+Automation Demo
+
+
+
+
+https://github.com/igtannu/Auotmation_Assentment_Amber/assets/65532242/2843ed45-20ba-44eb-b7ce-ef64948a83f6
 
 
 ## Running Tests
